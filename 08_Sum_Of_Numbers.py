@@ -21,14 +21,25 @@
 
 #sum of Even numbers:
 
+# number = 1
+# total = 0
+
+# while number <= 100:
+
+#     if number % 2 == 0:
+
+#       total = total + number
+      
+#     number = number + 1
+# print(total)
+
+#Sum of Odd numbers:
+
 number = 1
 total = 0
 
 while number <= 100:
-
-    if number % 2 == 0:
-
-      total = total + number
-      
+    if number % 2 != 0:
+        total = total + number
     number = number + 1
 print(total)
