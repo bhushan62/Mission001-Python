@@ -1,0 +1,4 @@
+Customer: Bhushan
+Service: Dry Cleaning
+Amount: 1350
+Status: Ready
