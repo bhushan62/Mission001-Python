@@ -1,38 +1,33 @@
-# 🚀 Mission001 - Python
+# 🚀 Mission001-Python
 
-> My journey to becoming a Full-Stack AI Automation Engineer.
+A structured Python learning repository documenting my journey toward becoming a **Full-Stack AI Automation Engineer**.
 
-## 📌 About
-
-This repository contains all the Python programs, exercises, and practice projects I completed while learning Python from scratch.
-
-The goal of this repository is to build a strong programming foundation before moving into AI Automation, Web Development, and Full-Stack Software Engineering.
+This repository contains Python fundamentals, practice programs, mini projects, and core programming concepts organized chapter by chapter.
 
 ---
 
-# ✅ Python Core - Completed
+# 📚 Course Progress
 
-The following topics have been completed:
+## ✅ Completed Topics
 
 - Python Basics
 - Variables & Data Types
-- Input / Output
+- Input & Output
 - Operators
 - Conditional Statements
-- While Loops
-- For Loops
+- Loops
 - Functions
-- Strings
 - Lists
 - Tuples
 - Sets
 - Dictionaries
 - File Handling
 - Exception Handling
-- Modules & Packages
+- Modules & Imports
 - Object-Oriented Programming (OOP)
 - Inheritance
 - Encapsulation
+- Mini Projects
 
 ---
 
@@ -40,93 +35,172 @@ The following topics have been completed:
 
 ```
 Mission001-Python/
-
-├── Basics
-├── Conditions
-├── Loops
-├── Functions
-├── Strings
-├── Lists
-├── Tuples
-├── Sets
-├── Dictionaries
-├── File Handling
-├── Exception Handling
-├── Modules
-├── OOP
-└── Practice Programs
+│
+├── 01_Python_Basics/
+├── 02_Conditional_Statements/
+├── 03_Loops/
+├── 04_Functions/
+├── 05_Collections/
+├── 06_File_Handling/
+├── 07_Exception_Handling/
+├── 08_Modules/
+├── 09_Object_Oriented_Programming/
+├── 10_Mini_Projects/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
-# 🛠 Technologies
+# 📖 Topics Covered
 
-- Python 3.14
+## 01 Python Basics
+
+- Variables
+- Data Types
+- User Input
+- Operators
+
+---
+
+## 02 Conditional Statements
+
+- if
+- if-else
+- if-elif
+- Nested if
+- Practice Programs
+
+---
+
+## 03 Loops
+
+- while Loop
+- for Loop
+- Reverse Loop
+- Even & Odd Numbers
+- Multiplication Table
+- Factorial
+- Reverse Number
+- Count Digits
+- Palindrome
+- Armstrong Number
+- Sum & Product Programs
+
+---
+
+## 04 Functions
+
+- Function Basics
+- Parameters
+- Return Values
+- Practice Programs
+
+---
+
+## 05 Collections
+
+- Lists
+- Sorting
+- Tuples
+- Sets
+- Dictionaries
+
+---
+
+## 06 File Handling
+
+- Reading Files
+- Writing Files
+- Appending Data
+- Working with Text Files
+
+---
+
+## 07 Exception Handling
+
+- try
+- except
+- else
+- finally
+- Multiple Exceptions
+
+---
+
+## 08 Modules
+
+- Built-in Modules
+- Custom Modules
+- import Statements
+
+---
+
+## 09 Object-Oriented Programming
+
+- Classes
+- Objects
+- Constructors
+- Inheritance
+- Encapsulation
+
+---
+
+## 10 Mini Projects
+
+- Laundry Billing System
+- Laundry Calculator
+- Business Calculator
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
 - Visual Studio Code
 - Git
 - GitHub
 
 ---
 
-# 🎯 Mission Roadmap
+# 🎯 Learning Goal
 
-### ✅ Phase 1
-- Complete Core Python ✔
+This repository is the first milestone in my roadmap to becoming a **Full-Stack AI Automation Engineer**.
 
-### 🔄 Phase 2
-- Git & GitHub
+Upcoming learning repositories include:
 
-### ⏳ Phase 3
-- Advanced Python
-
-### ⏳ Phase 4
-- AI Automation
-  - Excel Automation
-  - Gmail Automation
-  - WhatsApp Automation
-  - PDF Automation
-  - Web Scraping
-  - APIs
-  - AI Agents
-
-### ⏳ Phase 5
-- Frontend Development
-
-### ⏳ Phase 6
-- Backend Development
-
-### ⏳ Phase 7
-- Full-Stack AI Automation Projects
-
-### ⏳ Phase 8
-- Freelancing
-
-### ⏳ Phase 9
-- Build KLYN OS
+- Mission002 – Git & GitHub
+- Mission003 – Advanced Python
+- Mission004 – Web Scraping
+- Mission005 – APIs
+- Mission006 – Database (PostgreSQL)
+- Mission007 – Automation Projects
+- Mission008 – AI Automation
+- Mission009 – Web Development
+- Mission010 – KLYN OS
 
 ---
 
-# 📈 Progress
+# 📌 About This Repository
 
-| Stage | Status |
-|--------|--------|
-| Python Core | ✅ Completed |
-| Git & GitHub | 🔄 In Progress |
-| Advanced Python | ⏳ Planned |
-| AI Automation | ⏳ Planned |
-| Frontend | ⏳ Planned |
-| Backend | ⏳ Planned |
-| Full-Stack Projects | ⏳ Planned |
-| KLYN OS | ⏳ Planned |
+This repository is intended for:
+
+- Learning Python step by step
+- Practicing programming concepts
+- Building a strong programming foundation
+- Preparing for AI Automation and Full-Stack Development
 
 ---
 
-# 💡 Purpose
+# 📄 License
 
-This repository is part of my long-term mission to become a professional AI Automation Engineer capable of building real-world automation systems, web applications, and business software.
-
-Every commit in this repository represents a step in my learning journey.
+This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ Thank you for visiting my repository!
+## 👨‍💻 Author
+
+**Bhushan Kancherla**
+
+GitHub: **https://github.com/bhushan62**
